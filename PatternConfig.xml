@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PatternFontSettings doc_version="0">
+  <Small>
+    <Size>8,8</Size>
+    <FileName>Fonts/impulseSmall.ttf</FileName>
+    <AntiAlias>NO</AntiAlias>
+  </Small>
+  <Normal>
+    <Size>16,16</Size>
+    <FileName>Fonts/impulseNormal.ttf</FileName>
+    <AntiAlias>NO</AntiAlias>
+  </Normal>
+  <Big>
+    <Size>24,24</Size>
+    <FileName>Fonts/impulseBig.ttf</FileName>
+    <AntiAlias>NO</AntiAlias>
+  </Big>
+  <Huge>
+    <Size>32,32</Size>
+    <FileName>Fonts/impulseHuge.ttf</FileName>
+    <AntiAlias>NO</AntiAlias>
+  </Huge>
+</PatternFontSettings>
+
+
+<!-- 
+<?xml version="1.0" encoding="UTF-8"?>
+<PatternFontSettings doc_version="0">
+  <Small>
+    <Size>9,9</Size>
+    <FileName>Fonts/Beeb Mode One.ttf</FileName>
+    <AntiAlias>NO</AntiAlias>
+  </Small>
+  <Normal>
+    <Size>18,18</Size>
+    <FileName>Fonts/Beeb Mode One.ttf</FileName>
+    <AntiAlias>NO</AntiAlias>
+  </Normal>
+  <Big>
+    <Size>28,28</Size>
+    <FileName>Fonts/Beeb Mode One.ttf</FileName>
+    <AntiAlias>NO</AntiAlias>
+  </Big>
+  <Huge>
+    <Size>36,36</Size>
+    <FileName>Fonts/Beeb Mode One.ttf</FileName>
+    <AntiAlias>NO</AntiAlias>
+  </Huge>
+</PatternFontSettings>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PatternFontSettings doc_version="0">
+  <Small>
+    <Size>12,12</Size>
+    <FileName>Fonts/TerminusTTF-Bold-4.47.0.ttf</FileName>
+    <AntiAlias>NO</AntiAlias>
+  </Small>
+  <Normal>
+    <Size>16,16</Size>
+    <FileName>Fonts/SuperBoy.ttf</FileName>
+    <AntiAlias>NO</AntiAlias>
+  </Normal>
+  <Big>
+    <Size>24,24</Size>
+    <FileName>Fonts/SuperBoy.ttf</FileName>
+    <AntiAlias>NO</AntiAlias>
+  </Big>
+  <Huge>
+    <Size>32,32</Size>
+    <FileName>Fonts/SuperBoy.ttf</FileName>
+    <AntiAlias>NO</AntiAlias>
+  </Huge>
+</PatternFontSettings>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PatternFontSettings doc_version="0">
+  <Small>
+    <Size>12,12</Size>
+    <FileName>Fonts/TerminusTTF-Bold-4.47.0.ttf</FileName>
+    <AntiAlias>NO</AntiAlias>
+  </Small>
+  <Normal>
+    <Size>16,16</Size>
+    <FileName>Fonts/TerminusTTF-Bold-4.47.0.ttf</FileName>
+    <AntiAlias>NO</AntiAlias>
+  </Normal>
+  <Big>
+    <Size>18,18</Size>
+    <FileName>Fonts/TerminusTTF-Bold-4.47.0.ttf</FileName>
+    <AntiAlias>NO</AntiAlias>
+  </Big>
+  <Huge>
+    <Size>28,28</Size>
+    <FileName>Fonts/TerminusTTF-Bold-4.47.0.ttf</FileName>
+    <AntiAlias>NO</AntiAlias>
+  </Huge>
+</PatternFontSettings>
+-->
