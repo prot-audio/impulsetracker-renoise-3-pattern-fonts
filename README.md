@@ -1,6 +1,8 @@
 # impulsetracker-renoise-3-pattern-fonts
 ImplseTracker TTF fonts and pattern font configuration file for Renoise 3.2.x
+Note: Small, Normal, and Huge obey the originbal ImpulseTracker/SchismTracker spacing and padding with 0px/flush spacing on top and 1x respective px of spacing on the bottom. The "Big" size still needs some tweaking to perfect since multiples of three, rather than doubling like the others will require some extra math to adjust all the TTF parameters.
 
+INSTALL:
 Find your Renoise fonts folder.
 (save your old PatternConfig.xml in case there are problems)
 Add these .TTF fonts and overwrite PatternConfig.xml
